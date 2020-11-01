@@ -1,0 +1,16 @@
+#main{
+  background-color: #eee;
+  width : 20%;
+}
+#main-btn{
+  background-color: dodgerblue;
+  color:'white';
+  width:95%;
+  position:'relative';
+margin-bottom: 10%;
+}
+#main-inpt{
+   width:95%;}
+#para{
+  margin-top: 0%;
+}
